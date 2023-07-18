@@ -8,6 +8,7 @@
   justify-content: center;
   border: 3px solid transparent; /* Add transparent border */
   box-sizing: border-box;
+  position: relative;
 }
 .card__contents {
   margin-top: 20px;
@@ -36,6 +37,15 @@
   border: 3px solid lightcoral;
 }
 
+.btn__hourly__body {
+  position: absolute;
+  bottom: 10px;
+  /* Adjust the value to position the button */
+  left: 50%;
+  /* Position the button in the center horizontally */
+  transform: translateX(-50%); /* Center the button horizontally */
+}
+
 .btn__hourly__content {
   border: 0;
   color: grey;
@@ -43,4 +53,11 @@
   background-color: beige;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 80px; /* Adjust the width of the button as needed */
+}
+
+.btn__hourly__content:hover {
+  background-color: 1px solid coral;
+  color: coral;
+  border-radius: 3px;
 }
