@@ -1,0 +1,20 @@
+.card__body{
+    width:120px;
+    height:200px;
+    background-color: beige;
+    border-radius: 5px;
+
+}
+
+.card__content{
+    display: flex;
+    flex-direction: column;
+}
+
+.heat__indicator {
+    color: red;
+}
+
+.wind__indicator {
+    color:orange;
+}

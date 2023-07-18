@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import { WeatherDashboard } from "./component/WeatherDashboard";
 
 function App() {
   return (
     <div className="App">
-      <p>Template for React App</p>
+      <WeatherDashboard />
     </div>
   );
 }
