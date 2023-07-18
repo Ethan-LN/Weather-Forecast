@@ -1,3 +1,4 @@
+![weather-forecast](https://media.git.generalassemb.ly/user/49806/files/02b5d19a-10d4-438a-843b-ad1f5dd0fce0)
 ```markdown
 # Weather Dashboard
 
@@ -30,4 +31,5 @@ The Weather Dashboard is a web application that displays the weather forecast fo
 3. The Weather Dashboard will be displayed, showing the weather forecast for multiple days
 
 ## Screenshots
+![weather-forecast](https://media.git.generalassemb.ly/user/49806/files/a7a867b0-d263-4a98-90c8-3d7aaad63701)
 
