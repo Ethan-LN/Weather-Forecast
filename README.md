@@ -1,5 +1,3 @@
-Sure! Here's an example README.md file for your Weather Dashboard project:
-
 ```markdown
 # Weather Dashboard
 
