@@ -1,0 +1,28 @@
+.title {
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: beige;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.cards__panel {
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: grey;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.card {
+  width: 120px;
+  height: 250px;
+  background-color: beige;
+  border-radius: 5px;
+}
