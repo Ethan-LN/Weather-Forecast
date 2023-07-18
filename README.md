@@ -31,8 +31,3 @@ The Weather Dashboard is a web application that displays the weather forecast fo
 
 ## Screenshots
 
-![Weather Dashboard](![Screen Shot 2023-07-18 at 21 45 04](https://media.git.generalassemb.ly/user/49806/files/a0b1db37-cc6b-4288-aa64-717e24e58d53)
-)
-
-
-Feel free to modify and customize the README.md file based on your project's specific details and requirements.
