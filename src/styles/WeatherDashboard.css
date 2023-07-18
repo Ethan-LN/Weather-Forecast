@@ -2,6 +2,9 @@
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:beige;
+    display:flex;
+    flex-direction: column;
+    gap:50px;
 }
 
 .cards__panel {
@@ -12,5 +15,10 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap:10px;
+    gap:20px;
+}
+
+.hourly__display {
+    justify-content: center;
+    align-items: center;
 }

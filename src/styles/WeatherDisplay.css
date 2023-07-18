@@ -1,14 +1,19 @@
 .card__body{
     width:120px;
-    height:200px;
+    height:250px;
     background-color: beige;
     border-radius: 5px;
-
 }
 
-.card__content{
+.card__contents{
+    margin-top: 5px;
     display: flex;
     flex-direction: column;
+    gap: 5px;
+}
+
+.condition__indicator {
+    font-size: xx-large;
 }
 
 .heat__indicator {
@@ -17,4 +22,10 @@
 
 .wind__indicator {
     color:orange;
+}
+
+.card__body :hover {
+    width: 130px;
+    height: 260px;
+    border-radius: 5px;
 }
